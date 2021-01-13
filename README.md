@@ -1,3 +1,3 @@
 # LeetCode
-LeetCodeで解いた問題のコード
+LeetCodeで解いた問題のコードをひっそりと。
 <https://leetcode.com/>
